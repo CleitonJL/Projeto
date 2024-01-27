@@ -1,3 +1,1 @@
-# Projeto
-# Palmeiras
-# Palmeiras
+# Projeto para Discover na Rocketseat
